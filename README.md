@@ -1,11 +1,10 @@
-# Time-Series-Modeling-and-Trend-Analysis-of-Amazon-Stock
+# **Time-Series Modeling and Trend Analysis of Amazon Stock** 📈
 
 This project performs a comprehensive time-series analysis and forecasting of Amazon stock data. The pipeline includes data preprocessing, exploratory data analysis (EDA), statistical analysis, predictive modeling, and visualization.
 
 ---
 
-
-## **Project Structure**
+## **Project Structure** 🗂️
 ```
 Time-Series-Modeling-and-Trend-Analysis-of-Amazon-Stock/
 │
@@ -23,7 +22,7 @@ Time-Series-Modeling-and-Trend-Analysis-of-Amazon-Stock/
 
 ---
 
-## **Table of Contents**
+## **Table of Contents** 📋
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
@@ -36,12 +35,12 @@ Time-Series-Modeling-and-Trend-Analysis-of-Amazon-Stock/
 
 ---
 
-## **Introduction**
+## **Introduction** 🌟
 The project leverages Amazon stock data to explore historical trends, conduct statistical analyses, and forecast future prices. The end goal is to provide actionable insights through interactive Tableau dashboards and visualizations.
 
 ---
 
-## **Features**
+## **Features** ✨
 - **Data Preprocessing**:
   - Calculates rolling averages, daily returns, and volatility.
 - **Exploratory Data Analysis**:
@@ -55,7 +54,7 @@ The project leverages Amazon stock data to explore historical trends, conduct st
 
 ---
 
-## **Technologies Used**
+## **Technologies Used** 💻
 - **Programming**:
   - Python
 - **Libraries**:
@@ -67,7 +66,7 @@ The project leverages Amazon stock data to explore historical trends, conduct st
 
 ---
 
-## **Data Pipeline**
+## **Data Pipeline** 🔄
 1. **Data Loading**:
    - Load raw Amazon stock data from a CSV file.
 2. **Preprocessing**:
@@ -83,7 +82,7 @@ The project leverages Amazon stock data to explore historical trends, conduct st
 
 ---
 
-## **Installation**
+## **Installation** 🛠️
 1. Clone the repository:
    ```bash
    git clone https://github.com/rianachatterjee04/Time-Series-Modeling-and-Trend-Analysis-of-Amazon-Stock.git
@@ -99,7 +98,7 @@ The project leverages Amazon stock data to explore historical trends, conduct st
 
 ---
 
-## **Usage**
+## **Usage** 🚀
 1. **Run the main script** to process the data and generate outputs:
    ```bash
    python3 main.py
@@ -110,7 +109,7 @@ The project leverages Amazon stock data to explore historical trends, conduct st
 
 ---
 
-## **Visualizations and Insights**
+## **Visualizations and Insights** 📊
 The following visualizations are included in the Tableau dashboard:
 1. **Stock Price Trends**:
    - Line chart with `Close`, `30_day_MA`, and `90_day_MA`.
@@ -125,15 +124,14 @@ The following visualizations are included in the Tableau dashboard:
 
 ---
 
-
-## **Future Work**
+## **Future Work** 🔮
 - Include additional financial metrics (e.g., moving average convergence divergence, RSI).
 - Enhance model predictions with external factors like market indices or news sentiment.
 - Automate Tableau dashboard updates with live data feeds.
 
 ---
 
-## **Acknowledgments**
+## **Acknowledgments** 🙏
 - **Data Source**: [Kaggle - Amazon Stock Data](https://www.kaggle.com/).
 - Special thanks to the open-source tools and libraries that made this project possible.
 
