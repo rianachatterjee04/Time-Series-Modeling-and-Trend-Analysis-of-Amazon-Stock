@@ -71,8 +71,10 @@ The project leverages Amazon stock data to explore historical trends, conduct st
    - Load raw Amazon stock data from a CSV file.
 2. **Preprocessing**:
    - Add rolling averages (`30_day_MA`, `90_day_MA`), daily returns, and volatility.
+![Volatility Analysis](volatility.png)
 3. **Exploratory Analysis**:
    - Visualize trends and distributions.
+![Trend Analysis](averages.png)
 4. **Statistical Analysis**:
    - Hypothesis testing to evaluate recent stock behavior.
 5. **Predictive Modeling**:
