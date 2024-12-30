@@ -136,7 +136,7 @@ The following visualizations are included in the Tableau dashboard:
 ---
 
 ## **Acknowledgments** 🙏
-- **Data Source**: [Kaggle - Amazon Stock Data]([https://www.kaggle.com/](https://www.kaggle.com/datasets/muhammaddawood42/amazon-stock-data)).
+**Data Source**: [Kaggle - Amazon Stock Data](https://www.kaggle.com/datasets/muhammaddawood42/amazon-stock-data)
 - Special thanks to the open-source tools and libraries that made this project possible.
 
 ---
