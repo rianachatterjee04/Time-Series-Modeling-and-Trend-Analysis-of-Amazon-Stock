@@ -122,7 +122,7 @@ The following visualizations are included in the Tableau dashboard:
 5. **Statistical Insights**:
    - T-statistic and p-value from hypothesis testing.
   
-![Poisoning Attack Example](Dashboard 1.png)
+![Dashboard Preview](Dashboard%201.png)
 ---
 
 ## **Future Work** 🔮
