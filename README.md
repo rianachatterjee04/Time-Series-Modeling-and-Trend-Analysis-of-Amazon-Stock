@@ -121,7 +121,8 @@ The following visualizations are included in the Tableau dashboard:
    - Predicted future prices with confidence intervals.
 5. **Statistical Insights**:
    - T-statistic and p-value from hypothesis testing.
-
+  
+![Poisoning Attack Example](Dashboard 1.png)
 ---
 
 ## **Future Work** 🔮
