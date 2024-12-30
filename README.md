@@ -80,7 +80,7 @@ The project leverages Amazon stock data to explore historical trends, conduct st
 ![Statistical Analysis](statistical_analysis.png)
 5. **Predictive Modeling**:
    - Use Prophet to generate stock price forecasts.
-![Predictive Model](predictive_model.png)
+![Predictive Model](Figure_3.png)
 6. **Export for Tableau**:
    - Save the processed dataset for use in Tableau dashboards.
 
